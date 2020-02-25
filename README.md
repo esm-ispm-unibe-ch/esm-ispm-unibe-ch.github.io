@@ -6,6 +6,6 @@
 
 We will guide you through our repositories.
 * R-shiny apps: [shinies](shinies)
-* Contribution in NMA [flow_contribution](flow contribution)
+* Contribution in NMA [flow_contribution](flow_contribution)
 
 For further details follow [our official page](https://www.ispm.unibe.ch/research/research_groups/evidence_synthesis_methods/index_eng.html)
